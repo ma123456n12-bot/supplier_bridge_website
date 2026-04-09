@@ -1,4 +1,8 @@
 # supplier_bridge_website
+
+Student Name: 苏禾
+Student ID: 301202424031225
+
 Project Overview
 
 Supplier Bridge is a website for import/export businesses that connects clients with suppliers. The project combines a professional website (frontend) with Python programs (backend) for managing inquiries and matching suppliers.
